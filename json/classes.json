@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Battlemaster",
+        "description":"Battlemasters can swing a weapon with unmatched might and speed. They've mastered what their body is capable of and are truly an individual wrecking crew because of it. Battlemasters excel in close combat and can handle any situation they're in the middle of. ",
+        "actions":["Rest", "Recover", "Whirlwind", "Heavy Strike", "Charge", "Meditate", "Shout"]
+    },
+    {
+        "name":"Bloodbound",
+        "description":"Bloodbound have an innate ability to manipulate and utilize blood. Their attacks focus mostly on regenerating their own bodies through the adsorption of blood around them. They're also able to sacrifice their own stores of blood to deal incredible damage to nearby foes. ",
+        "actions":["Rest", "Blood Rain", "Leech Life", "Sacrifice", "Meditate", "Sap Spirit", "Blood Bond"]
+    },
+    {
+        "name":"Displacer",
+        "description":"Alterations allow displacers to manipulate gravity in order to move people and objects around. In battle, displacers are more known for their utility in positioning enemies where they're desired as opposed to inflicting damage themselves. For this reason they are considered valuable allies to have. While displacers would prefer to keep their distance from most enemies, they do have the ability to deal massive amounts of damage to nearby enemies when the need arises. ",
+        "actions":["Rest","Slam","Meditate","Swap","Pull","Push","Collision"]
+    },
+    {
+        "name":"Elementalist",
+        "description":"Elementalists have the ability to harness the elements and use them for the purpose of destruction. They tend to attack from a distance and focus on groups of enemies. When enemies do get near, elementalists are excellent at pushing them away and returning to their ranged attacks. ",
+        "actions":["Rest", "Gale", "Meditate", "Corrosive Spray", "Tornado", "Blizzard", "Fireball"]
+    },
+    {
+        "name":"Immortal",
+        "description":"Immortals are beings who have an innate control of the earth around them. In combat, they use their abilities defensively to ensure they come out alive. Immortals like to push enemies away from them and maintain their own wellbeing as opposed to dealing damage themselves. ",
+        "actions":["Rest","Fortify","Tremor","Earthquake","Sonic Boom", "Meditate", "Boulder Smash"]
+    },
+    {
+        "name":"Lancer",
+        "description":"Lancers are masters of weaponry. They're able to channel their inner spirit to manipulate their weapon attacks by adding extra reach, area, and power. In battle they aim to keep a short distance from their enemies while striking them. ",
+        "actions":["Rest","Defensive Stance","Impale","Sunder","Meditate","Gore","Slash"]
+    },
+    {
+        "name":"Phaser",
+        "description":"Alterations phasers have received allow them to displace their own bodies and equipment by breaking them down to their atomic particles and travelling rapidly over short distances. They're also able to take small amounts of atomic particles from their surroundings and channel them into attacks. In battle they try to keep a distance from all enemies by phasing out of close conflict. They're able to recover quickly and attack at a range to utilize their position. ",
+        "actions":["Rest","Phase Sprint","Meditate","Phase","Phase Strike","Phase Blast","Phase Shift"]
+    },
+    {
+        "name":"Pyromaniac",
+        "description":"Fire obsessed beings able to coat surfaces in fire or expel it from their body at will, pyromaniacs are known as some of the most fearsome beings around. Their apparent lack of fear to be in the middle of conflict while scorching their enemies make them a target to avoid. ",
+        "actions":["Rest","Fire Whip","Flame Blade","Meditate","Fire Shield","Combust","Lava Wave"]
+    },
+    {
+        "name":"Spirit Archer",
+        "description":"Spirit archers are able to harness the spirit within them to release another spiritual being emerging above them that is capable of using a lethal spiritual bow and arrows. They tend to gain the upper hand in battle by damaging their foes at a distance before showing how lethal they can be in close combat. ",
+        "actions":["Rest","Blast","Meditate","Volley","Split Shot","Keen Arow","Snipe"]
+    },
+    {
+        "name":"Strider",
+        "description":"Striders are able to move incredibly quick in small bursts. Due to their mobility they're very good at focusing on their preferred targets. Their attacks can sometimes allow them to keep a small distance from their enemies however, forcing nearby enemies to spend energy coming to them. ",
+        "actions":["Rest","Blitz","Meditate","Elusive Backstab","Dash","Evasive Maneuver","Warp Strike"]
+    }
+]
+
